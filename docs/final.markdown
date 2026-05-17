@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Final Report
+title: Report
 ---
 
 <style>
@@ -156,7 +156,4 @@ We demonstrated that ML can classify skin tone, acne, and type from images with 
 - S. Saiwaeo, S. Arwatchananukul, L. Mungmai, W. Preedalikit, and N. Aunsri, “Human skin type classification using image processing and deep learning approaches,” Heliyon, vol. 9, no. 11, p. e21176, Nov. 2023, doi: https://doi.org/10.1016/j.heliyon.2023.e21176. Available: https://pubmed.ncbi.nlm.nih.gov/38027689/
 - López-Leyva, Josué & Guerra-Rosas, Esperanza & Alvareznborrego, Josue. (2021). Multi-Class Diagnosis of Skin Lesions Using the Fourier Spectral Information of Images on Additive Color Model by Artificial Neural Network. IEEE Access. PP. 1-1. 10.1109/ACCESS.2021.3061873. https://ieeexplore.ieee.org/document/9363122
 - S. Albawi, T. A. Mohammed and S. Al-Zawi, “Understanding of a convolutional neural network,” 2017 International Conference on Engineering and Technology (ICET), 2017, pp. 1-6, doi: 10.1109/ICEngTechnol.2017.8308186. https://ieeexplore.ieee.org/document/8308186
-
-## Gantt Chart
-![Gantt Chart](GanttChart_4641.png)
 
